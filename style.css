@@ -75,6 +75,7 @@ main {
     justify-content: center;
     border-radius: 8px;
     border: none;
+    box-shadow: rgba(0, 0, 0, 0.158) 0px 7px 0px ;
 }
 
 .form form {
