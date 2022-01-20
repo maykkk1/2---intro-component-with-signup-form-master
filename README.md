@@ -2,7 +2,7 @@
   
 <p align="center"> Solução para o desafio <a href="https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1">Intro component with sign-up form</a>. Usando HTML e CSS Flexbox.</p>
 
-<a href="https://hopeful-lamarr-6a78ba.netlify.app/">Solição</a>
+<a href="https://hopeful-lamarr-6a78ba.netlify.app/">Solução</a>
 
 
 <h2 align="center">Desktop-design esperado: </h2>
